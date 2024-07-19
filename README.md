@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 
 ### Quorum-based Total Order Broadcast
 This project implements a protocol for coordinating a group of replicas in a distributed system, ensuring fault tolerance through a quorum-based approach.
--> **Repository**: [Distributed System Project](https://github.com/YourUsername/Distributed_System_Project)
+**Repository**: [Distributed System Project](https://github.com/FrancescaCapra/Distributed-System-Project.git)
 
 ## 👀 Current Interests
 

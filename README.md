@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 ## 🎓 Education
 
 ### University of Trento
-- **Program**:First Year Double Degree in Cybersecurity
+- **Program**: First Year Double Degree in Cybersecurity
 - **Years**: 2023 – 2024
 
 ### University of Turku
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 
 ### Quorum-based Total Order Broadcast
 This project implements a protocol for coordinating a group of replicas in a distributed system, ensuring fault tolerance through a quorum-based approach.
-**Repository**: [Distributed System Project](https://github.com/FrancescaCapra/Distributed-System-Project.git)
+- **Repository**: [Distributed System Project](https://github.com/FrancescaCapra/Distributed-System-Project.git)
 
 ## 👀 Current Interests
 

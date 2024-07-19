@@ -7,16 +7,16 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 ## 🎓 Education
 
 ### University of Trento
-- **Program**: Double Degree in Cybersecurity
+- **Program**:First Year Double Degree in Cybersecurity
 - **Years**: 2024 – 2024
 
 ### University of Turku
-- **Program**: Exchange Program in Cybersecurity
+- **Program**: Second Year Double Program in Cybersecurity
 - **Years**: 2024 – 2025
 
 ## 🔧 Skills
 
-- **Programming**: Java, Python, C++
+- **Programming**: Java, C++, Assembly, Bash
 - **Web Development**: HTML, CSS, JavaScript
 - **Databases**: MySQL
 - **Tools**: Git, Docker
@@ -48,8 +48,8 @@ When I'm not coding or studying, you can find me:
 
 I'm always excited to connect with fellow tech enthusiasts, students, and professionals. Feel free to reach out to me!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/YourUsername)
+- **LinkedIn**: (https://www.linkedin.com/in/francescacapra/)
+- **GitHub**: (https://github.com/FrancescaCapra/FrancescaCapra)
 
 ---
 

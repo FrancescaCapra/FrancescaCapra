@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Francesca
 
+
 ## 🌟 About Me
 
 Welcome to my GitHub profile! I'm a dedicated student currently pursuing a double degree in Cybersecurity at University of Trento and University of Turku. My academic journey has taken me across the beautiful landscapes of Italy and Finland, where I've immersed myself in the fascinating world of technology and security.
@@ -8,7 +9,7 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 
 ### University of Trento
 - **Program**:First Year Double Degree in Cybersecurity
-- **Years**: 2024 – 2024
+- **Years**: 2023 – 2024
 
 ### University of Turku
 - **Program**: Second Year Double Program in Cybersecurity
@@ -25,7 +26,7 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 ## 🌐 Projects
 
 ### Quorum-based Total Order Broadcast
-This project implements a protocol for coordinating a group of replicas in a distributed system, ensuring fault tolerance through a quorum-based approach. The system manages update requests from external clients and guarantees that all replicas apply updates in the same order. Key features include coordinator election, crash detection, and sequential consistency for client interactions.
+This project implements a protocol for coordinating a group of replicas in a distributed system, ensuring fault tolerance through a quorum-based approach.
 -> **Repository**: [Distributed System Project](https://github.com/YourUsername/Distributed_System_Project)
 
 ## 👀 Current Interests

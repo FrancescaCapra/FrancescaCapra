@@ -5,16 +5,6 @@
 
 Welcome to my GitHub profile! I'm a dedicated student currently pursuing a double degree in Cybersecurity at University of Trento and University of Turku. My academic journey has taken me across the beautiful landscapes of Italy and Finland, where I've immersed myself in the fascinating world of technology and security.
 
-## 🎓 Education
-
-### University of Trento
-- **Program**: First Year Double Degree in Cybersecurity
-- **Years**: 2023 – 2024
-
-### University of Turku
-- **Program**: Second Year Double Program in Cybersecurity
-- **Years**: 2024 – 2025
-
 ## 🔧 Skills
 
 - **Programming**: Java, C++, Assembly, Bash

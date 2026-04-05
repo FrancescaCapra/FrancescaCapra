@@ -3,15 +3,14 @@
 
 ## 🌟 About Me
 
-Welcome to my GitHub profile! I'm a dedicated student currently pursuing a double degree in Cybersecurity at University of Trento and University of Turku. My academic journey has taken me across the beautiful landscapes of Italy and Finland, where I've immersed myself in the fascinating world of technology and security.
+Welcome to my GitHub profile! I am an engineer with a background in cybersecurity and a strong focus on systems, distributed architectures and network protocols. My journey has taken me across the beautiful landscapes of Italy, Finland and Germany, where I've immersed myself in the fascinating world of technology and security.
 
-## 🔧 Skills
-
-- **Programming**: Java, C++, Assembly, Bash
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: MySQL
-- **Tools**: Git, Docker
-- **Operating Systems**: Linux, Windows
+I enjoy working on problems involving:
+- fault tolerance and consistency in distributed systems
+- networking and protocol behaviour
+- performance and low-level systems (C)
+- security in real-world infrastructure
+and much more!
 
 ## 🌐 Projects
 
@@ -19,17 +18,29 @@ Welcome to my GitHub profile! I'm a dedicated student currently pursuing a doubl
 This project implements a protocol for coordinating a group of replicas in a distributed system, ensuring fault tolerance through a quorum-based approach.
 - **Repository**: [Distributed System Project](https://github.com/FrancescaCapra/Distributed-System-Project.git)
 
+### BGP Routing Simulator
+This project presents a fully-featured simulator for the Border Gateway Protocol (BGP), specifically designed for modeling inter-AS (Autonomous System) routing in a scalable and customizable environment. 
+
+- **Repository**: [Bgp-Simulator](https://github.com/FrancescaCapra/Bgp-Simulator)
+
+---
+## 🔧 Tech Stack
+
+- **Programming**: Java, C, Assembly, Bash, SQL
+- **Tools**: Git, Docker
+- **Operating Systems**: Linux, Windows
+
 ## 👀 Current Interests
 
 I'm deeply interested in the following areas:
-- Cybersecurity and Ethical Hacking
+- Cryptography
 - Distributed Systems
 - Network Security
-- Privacy and Intellectual Property Rights
+- Threat Modelling 
 
 ## 🌱 What I'm Up To
 
-When I'm not coding or studying, you can find me:
+When I'm not coding or working, you can find me:
 - Exploring new tech trends and cybersecurity techniques
 - Reading classic novels
 - Travelling and enjoying nature
